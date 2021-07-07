@@ -1,0 +1,20 @@
+form input {
+    padding: 10px;  
+    background-color: #ebebeb;
+    border: transparent;
+    border: 0.3px solid #ccc
+}
+/* 
+form input [type=submit]{
+    background-color: #2ebaee;
+    border: 0.3px solid #2ebaee;
+    color: #fff;
+    cursor: pointer;
+} */
+
+.submit{
+    background-color: #2ebaee;
+    border: 0.3px solid #2ebaee;
+    color: #fff;
+    cursor: pointer;
+}
